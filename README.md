@@ -3,9 +3,9 @@
 A small project to practice Unreal Engine 5 physics simulation. This is a first-person video game with minor action elements.
 
 <p>
-  <img src="./public/readme/menu.png" alt="Main Menu" height="300" /> &nbsp;
-  <img src="./public/readme/game.png" alt="Game View" height="300" /> &nbsp;
-  <img src="./public/readme/mapdesign.png" alt="Map Design" height="300" />
+  <img src="./public/readme/menu.png" alt="Main Menu" width="300" /> &nbsp;
+  <img src="./public/readme/game.png" alt="Game View" width="300" /> &nbsp;
+  <img src="./public/readme/mapdesign.png" alt="Map Design" width="300" />
 </p>
 
 ## Gameplay
